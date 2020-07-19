@@ -2,12 +2,33 @@
 
 ## Story line
 大致剧情：  
+
 很小的时候：女主人公Cherline胖胖的，亲戚长辈都很喜欢。
+
 幼儿园时候：Cherline到了上学的年龄，小朋友们玩得很开心，她想加入，但别的小朋友嫌弃她胖，都不和她一起玩。
+
 小学时候：老师尖酸刻薄的语言（教师对肥胖者的刻板影响stereo type） 一次考试，向来成绩平平的A考了很高的分数，老师在课堂上对Cherline说你这么胖，脑子肯定不好使，还当着大家的面暗示A“作弊”。
+
 初中时候：某天，Cherline来到教室，发现课桌里被塞满了垃圾。
+
 青少年时期：大家对肥胖者的歧视不再那么明显了，男二号C不仅不歧视Cherline，而且和Cherline成了朋友，C和Cherline无话不说。Cherline对C暗生好感，有一天向C表白了，但C拒绝了，他说我只把你当朋友，我喜欢瘦瘦的女孩。
+
 大学时期：Cherline在图书馆与男生A碰面，两人开启一段感情~欲知后事如何,工程里打开就播放即可。
+
+Synopsis:
+
+Young: Cherline, the heroine, is chubby and loved by her relatives and grandparents.
+
+Kindergarten: When Cherline is old enough to go to school, the children have a good time and she wants to join in, but other children dislike her weight and won't play with her.
+
+Primary school: Teacher's acid language (teacher's stereotyping influence on obese people). During an exam, the teacher got A high score on A, who was usually mediocre. In class, the teacher told Cherline that you must be too fat to be smart, and suggested to A "cheat" in front of everyone.
+
+Junior high: Cherline came to class one day and found his desk stuffed with garbage.
+
+Teen years: The stigma against obesity is less pronounced, with No. 2 C not only not discriminating against Cherline, but befriending her.
+Cherline has a crush on C and expresses his love to C one day, but C refuses, saying that I only regard you as a friend and I like thin girls.
+
+College years: Cherline meets boy A in the library, and they start A relationship.~~~ If you wants to know what will happen in the future, it can be played in the project.
 
 ## Folder description
 
