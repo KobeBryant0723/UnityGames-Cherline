@@ -1,0 +1,14 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+[Bb]uild/
+[Ll]ogs/
+[Pp]ackages/
+
+# Vs
+.vs/
+
+# Project Files
+*.sln
+*.csproj
